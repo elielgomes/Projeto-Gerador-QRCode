@@ -1,0 +1,60 @@
+$roxo : #8257E5;
+$cinza-claro: #1E1E1E;
+$cinza-escuro: #121214;
+$branco: #fff;
+
+footer {
+    background-color: $cinza-claro;
+    height: 130px;
+}
+
+footer svg {
+    color: rgba(255, 255, 255, 0.438);
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.438);
+
+    &:hover{
+        color: $roxo;
+    }
+}
+
+#arrow-top {
+    color: rgba(255, 255, 255, 0.438);
+
+    &:hover{
+        color: $roxo;
+    }
+}
+
+#image-footer {
+    width: 150px;
+}
+
+#container-elements-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#container-image-footer {
+    grid-column: 1/2;
+    grid-row: 1/3;
+}
+
+#container-github {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+#container-arrow-top {
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+
+@media (max-width:520px) {
+
+    #image-footer {
+        width: 120px;
+    }
+}

@@ -1,0 +1,33 @@
+$roxo : #8257E5;
+$cinza-claro: #1E1E1E;
+$cinza-escuro: #121214;
+$branco: #fff;
+
+body {
+    background-color: $cinza-escuro;
+}
+
+img#image-navbar {
+    width: 70px;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+.nav-link {
+
+    &:hover,
+    &:focus {
+        color: $roxo;
+        text-shadow: 1px 1px 20px #8257E5;
+    }
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar-toggler:not(.collapsed) {
+    box-shadow: 0px 0px 15px $roxo;
+}
