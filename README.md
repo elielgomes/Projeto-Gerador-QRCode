@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927
 
 ![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192856312-612e00ab-05f9-4bef-875c-4dff023b1070.gif)
 
+![Design sem nome](https://user-images.githubusercontent.com/108281436/192868918-8c75d8e1-efde-4326-bfbc-edc5388d8b5c.gif)
+
 
 # 🔑 Acesso ao Projeto
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
