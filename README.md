@@ -15,7 +15,7 @@
 
 * [Badges](#Badges)
 * [Índice](#Índice)
-* [Descrição do Projeto](#Descrição-do-Projeto)
+* [Descrição do Projeto](https://github.com/elielgomes/Projeto-Gerador-QRCode/blob/main/README.md#%EF%B8%8F-descri%C3%A7%C3%A3o-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
