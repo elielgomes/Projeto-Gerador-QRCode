@@ -51,11 +51,7 @@ Telas na versão desktop.
 </p>
 
 ![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
-https://user-images.githubusercontent.com/108281436/192855542-d302fcfe-f50b-4cff-a3c0-252fe4db3d92.mp4
 
-
-
-https://user-images.githubusercontent.com/108281436/192855895-6a27d90b-3d79-450d-89f4-da79f9c15808.mp4
 
 
 
