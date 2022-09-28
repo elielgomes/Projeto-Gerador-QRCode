@@ -13,7 +13,7 @@
 
 # 🔍 Indice
 
-* [Badges](#🛡️ Badges)
+* [Badges](#Badges)
 * [Índice](#Índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Status do Projeto](#status-do-Projeto)
