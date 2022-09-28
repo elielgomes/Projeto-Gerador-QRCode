@@ -41,7 +41,7 @@ Principais telas na versão Mobile
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/108281436/192851130-dd9b9f97-50b3-4b56-a70c-526282d14167" alt="img-desktop-2"/>
+<img src="https://user-images.githubusercontent.com/108281436/192851130-dd9b9f97-50b3-4b56-a70c-526282d14167.png" alt="img-desktop-2"/>
 </p>
 
 ![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
