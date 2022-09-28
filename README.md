@@ -17,7 +17,7 @@
 * [Índice](#Índice)
 * [Descrição do Projeto](https://github.com/elielgomes/Projeto-Gerador-QRCode/blob/main/README.md#%EF%B8%8F-descri%C3%A7%C3%A3o-do-projeto)
 * [Status do Projeto](https://github.com/elielgomes/Projeto-Gerador-QRCode/blob/main/README.md#-status-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades e Demonstração da Aplicação](https://github.com/elielgomes/Projeto-Gerador-QRCode/blob/main/README.md#%EF%B8%8F-funcionalidades-e-demonstra%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#Licença)
