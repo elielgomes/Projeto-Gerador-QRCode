@@ -2,8 +2,9 @@
 
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/108281436/192785286-edcd8d5b-831f-400a-bf8b-3dbf86b266ce.png" alt="image"/>
+  <img src="https://user-images.githubusercontent.com/108281436/192785470-939849cc-21be-4737-8577-61392e1fd94b.png" alt="image"/>
 </p>
+
 
 # 🛡️ Badges
 ![Open Source](https://img.shields.io/badge/OpenSource-%E2%9D%A4-green)
