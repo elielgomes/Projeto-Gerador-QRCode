@@ -38,6 +38,10 @@ Telas na versão mobile.
 <img src="https://user-images.githubusercontent.com/108281436/192845439-d4abbd94-ff53-4a8f-a9da-a8bc6d77f47f.png" alt="img-mobile"/>
 </p>
 
+<h2 align="center">
+Telas na versão desktop.
+</h2>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/108281436/192850164-f5bbb47e-42ab-498c-b641-f27dc777e285.png" alt="img-desktop-1"/>
 </p>
