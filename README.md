@@ -50,12 +50,8 @@ Telas na versão desktop.
 <img src="https://user-images.githubusercontent.com/108281436/192851130-dd9b9f97-50b3-4b56-a70c-526282d14167.png" alt="img-desktop-2"/>
 </p>
 
-![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
 
-
-
-
-![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4)
+https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4
 
 ![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192856312-612e00ab-05f9-4bef-875c-4dff023b1070.gif)
 
