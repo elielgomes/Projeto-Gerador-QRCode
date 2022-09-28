@@ -52,4 +52,5 @@ ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 🔓 Licença
-Gerador de QR Code é MIT licensed [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) <br>
+Gerador de QR Code é MIT licensed 
