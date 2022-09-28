@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/108281436/192768715-8d912329-3d62-4310-a54f-f2389dbda41c.png" alt="image"/>
+  <img src="https://user-images.githubusercontent.com/108281436/192785286-edcd8d5b-831f-400a-bf8b-3dbf86b266ce.png" alt="image"/>
 </p>
 
 # 🛡️ Badges
