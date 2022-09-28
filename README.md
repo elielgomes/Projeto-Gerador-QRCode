@@ -52,6 +52,17 @@ Telas na versão desktop.
 
 ![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
 https://user-images.githubusercontent.com/108281436/192855542-d302fcfe-f50b-4cff-a3c0-252fe4db3d92.mp4
+
+
+
+https://user-images.githubusercontent.com/108281436/192855895-6a27d90b-3d79-450d-89f4-da79f9c15808.mp4
+
+
+
+https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4
+
+
+
 # 🔑 Acesso ao Projeto
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
 ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
