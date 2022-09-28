@@ -6,10 +6,9 @@
 </p>
 
 # Badges
- ![po](https://img.shields.io/badge/OpenSource-%E2%9D%A4-green)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source](https://img.shields.io/badge/OpenSource-%E2%9D%A4-green)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
+![Release Date](https://img.shields.io/badge/release%20date-september-green)
 # Indice
 
 # Descrição do Projeto
