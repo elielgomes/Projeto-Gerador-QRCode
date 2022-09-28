@@ -31,7 +31,7 @@
 ![Frame 16](https://user-images.githubusercontent.com/108281436/192803852-d0a0e110-a351-4eb9-ad0e-95cb36a0bb49.png)
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
-
+Principais telas na versão Mobile
 <p align="center">
 <img src="https://user-images.githubusercontent.com/108281436/192845439-d4abbd94-ff53-4a8f-a9da-a8bc6d77f47f.png" alt="img-mobile"/>
 </p>
