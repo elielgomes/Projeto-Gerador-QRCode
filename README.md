@@ -33,8 +33,7 @@
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
 # 🔑 Acesso ao Projeto
-
-Clique aqui! <br> [![Acesso](https://img.shields.io/badge/Acessar-%F0%9F%94%97-green)](https://qr-code-generator-lac-beta.vercel.app/) <br>
+[![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
 ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
 
 # 👨🏻‍💻 Tecnologias utilizadas
