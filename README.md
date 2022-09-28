@@ -36,6 +36,9 @@ Principais telas na versão Mobile
 <img src="https://user-images.githubusercontent.com/108281436/192845439-d4abbd94-ff53-4a8f-a9da-a8bc6d77f47f.png" alt="img-mobile"/>
 </p>
 
+![Frame 18](https://user-images.githubusercontent.com/108281436/192850164-f5bbb47e-42ab-498c-b641-f27dc777e285.png)
+![Frame 18a](https://user-images.githubusercontent.com/108281436/192851130-dd9b9f97-50b3-4b56-a70c-526282d14167.png)
+
 ![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
 
 # 🔑 Acesso ao Projeto
