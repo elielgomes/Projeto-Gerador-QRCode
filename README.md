@@ -53,4 +53,4 @@ ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
 
 # 🔓 Licença
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) <br>
-Gerador de QR Code é MIT licensed 
+Gerador de QR Code tem licença MIT
