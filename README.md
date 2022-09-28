@@ -5,12 +5,12 @@
   <img src="https://user-images.githubusercontent.com/108281436/192768715-8d912329-3d62-4310-a54f-f2389dbda41c.png" alt="image"/>
 </p>
 
-# Badges
+# 🛡️ Badges
 ![Open Source](https://img.shields.io/badge/OpenSource-%E2%9D%A4-green)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![Release Date](https://img.shields.io/badge/release%20date-september-green)
 
-# Indice
+# 🔍 Indice
 
 * [Badges](#Badges)
 * [Índice](#Índice)
@@ -22,14 +22,14 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 * 
-# Descrição do Projeto
+# ✏️ Descrição do Projeto
 
-# Status do Projeto
+# 💹 Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Funcionalidades e Demonstração da Aplicação
+# 🛠️ Funcionalidades e Demonstração da Aplicação
 
-# Acesso ao Projeto
+# 🔑 Acesso ao Projeto
 
 # 👨🏻‍💻 Tecnologias utilizadas
 
@@ -46,4 +46,4 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# Licença
+# 🔓 Licença
