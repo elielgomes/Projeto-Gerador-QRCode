@@ -53,4 +53,4 @@ ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-🔓# Licença
+# 🔓 # Licença
