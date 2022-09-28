@@ -16,10 +16,10 @@
 * [Badges](#Badges)
 * [Índice](#Índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)<br>
-   1.[Introdução](#Introdução)
-   2.[Objetivo](#Objetivo)
-   3.[Desenvolvimento](#Desenvolvimento)
-   4.[Conclusão](#Conclusão)
+   [1. Introdução](#Introdução)<br>
+   [2. Objetivo](#Objetivo)<br>
+   [3. Desenvolvimento](#Desenvolvimento)<br>
+   [4. Conclusão](#Conclusão)<br>
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
