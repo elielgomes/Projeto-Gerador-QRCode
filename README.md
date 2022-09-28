@@ -28,7 +28,7 @@
  O Gerador de QR Code é um projeto inteiramente desenvolvido por mim, desde a identidade visual até a finalização do projeto utilizando ferramentas de desenvolvimento web. O gerador de QR Code tem como principal objetivo auxiliar de forma pratica, rápida e ilimitada os usuários na criação de seus QR Codes, para isso foi pensado em um design minimalista e de forma didática para que qualquer pessoa consiga usá-lo, o gerador consiste em um input (campo de texto) onde o usuário insere sua URL e seleciona o formato e tamanho da imagem que será gerada, o usuário pode fazer o download da imagem que terá o tamanho e formato de arquivo que foram selecionados, o gerador tem total compatibilidade a diversos navegadores e pode ser usado em dispositivos moveis. 
 
 # 📈 Status do Projeto
-![Frame 16](https://user-images.githubusercontent.com/108281436/192797915-503a41f1-a637-4e42-87f2-5ac5e9af7089.png)
+![Frame 16](https://user-images.githubusercontent.com/108281436/192803852-d0a0e110-a351-4eb9-ad0e-95cb36a0bb49.png)
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
