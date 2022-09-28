@@ -55,9 +55,9 @@ Telas na versão desktop.
 
 
 
-https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4
+![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4)
 
-![2022-09-28-15-01-01](https://user-images.githubusercontent.com/108281436/192856312-612e00ab-05f9-4bef-875c-4dff023b1070.gif)
+![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192856312-612e00ab-05f9-4bef-875c-4dff023b1070.gif)
 
 
 # 🔑 Acesso ao Projeto
