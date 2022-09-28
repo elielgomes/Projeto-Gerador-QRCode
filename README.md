@@ -30,6 +30,7 @@
 
 # 📈 Status do Projeto
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Frame 16](https://user-images.githubusercontent.com/108281436/192797915-503a41f1-a637-4e42-87f2-5ac5e9af7089.png)
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
