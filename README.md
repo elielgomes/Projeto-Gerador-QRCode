@@ -32,7 +32,9 @@
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
-<iframe src="https://qr-code-generator-lac-beta.vercel.app/" title="description"></iframe>
+https://user-images.githubusercontent.com/108281436/192820091-e98bfba2-b4c7-43c8-8896-afb0c95cabe1.mp4
+
+
 
 # 🔑 Acesso ao Projeto
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
