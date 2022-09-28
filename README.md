@@ -1,4 +1,4 @@
-# Projeto-Gerador-QRCode
+# Gerador de QR Code
 
 
  <p align="center">
