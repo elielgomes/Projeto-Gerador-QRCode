@@ -32,7 +32,8 @@
 
 # 🔑 Acesso ao Projeto
 
-Clique aqui <br> [![Acesso](https://img.shields.io/badge/Acessar-%F0%9F%94%97-green)](https://qr-code-generator-lac-beta.vercel.app/)
+Clique aqui! <br> [![Acesso](https://img.shields.io/badge/Acessar-%F0%9F%94%97-green)](https://qr-code-generator-lac-beta.vercel.app/)
+ou acesse direto pelo link https://qr-code-generator-lac-beta.vercel.app/
 
 # 👨🏻‍💻 Tecnologias utilizadas
 
