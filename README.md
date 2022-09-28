@@ -32,6 +32,9 @@
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
+![Frame 17](https://user-images.githubusercontent.com/108281436/192845152-72270dba-1541-40e5-9f89-55c53682d0e1.png)
+
+
 ![Gif](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
 
 # 🔑 Acesso ao Projeto
