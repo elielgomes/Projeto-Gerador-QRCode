@@ -35,6 +35,7 @@
 ![2022-09-28-12-23-54](https://user-images.githubusercontent.com/108281436/192821711-fed38dfd-079b-46f7-804b-4006436bb98c.gif)
 
 ![2022-09-28-12-23-54 (1)](https://user-images.githubusercontent.com/108281436/192822496-9e4139ba-648b-46bd-924f-4e038e5798bb.gif)
+![2022-09-28-12-23-54 (2)](https://user-images.githubusercontent.com/108281436/192839551-d2b14227-0192-431f-ba8f-5dd20e13605e.gif)
 
 # 🔑 Acesso ao Projeto
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
