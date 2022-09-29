@@ -50,14 +50,10 @@ Telas na versão desktop.
 <img src="https://user-images.githubusercontent.com/108281436/192851130-dd9b9f97-50b3-4b56-a70c-526282d14167.png" alt="img-desktop-2"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/108281436/193058068-a07c8da8-2ba7-4923-81df-d157ba96ceb3.gif" alt="gif-desktop"/>
+</p>
 
-https://user-images.githubusercontent.com/108281436/192855988-9f157bb5-ae84-4927-97ac-94db7c5d7353.mp4
-
-![Gerador QR Code](https://user-images.githubusercontent.com/108281436/192856312-612e00ab-05f9-4bef-875c-4dff023b1070.gif)
-
-![Design sem nome](https://user-images.githubusercontent.com/108281436/192868918-8c75d8e1-efde-4326-bfbc-edc5388d8b5c.gif)
-
-![moldura-gif](https://user-images.githubusercontent.com/108281436/193058068-a07c8da8-2ba7-4923-81df-d157ba96ceb3.gif)
 
 # 🔑 Acesso ao Projeto
 [![Acesso](https://user-images.githubusercontent.com/108281436/192802838-0c7abeda-f41a-4c34-86c7-ead30e2b223c.png)](https://qr-code-generator-lac-beta.vercel.app/) <br>
